@@ -1,0 +1,2 @@
+Whenever you restart WSL, activate the environment with:
+source ~/ollama-env/bin/activate

@@ -1,0 +1,1 @@
+rsync -av ~/jerrys-finn-ai/data/ /mnt/c/Users/Daniel/Documents/jerrys-finn-ai/data/
